@@ -1,0 +1,20 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marinus Klap",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "connect-livereload": "^0.5.3",
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0",
+    "opn": "^1.0.1",
+    "serve-index": "^1.6.2",
+    "serve-static": "^1.9.1"
+  }
+}
